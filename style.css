@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-image: url("img/background.jpg");
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover;
+}
+
+#main
+{
+    width: 1240px;
+    margin: auto;
+}
+#container
+{
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin-top: 60px;
+    padding: 60px;
+}
+
+#header
+{
+    margin-top: 30px;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+#nav
+{
+    margin: 10px 0;
+    padding: 10px;
+    text-align: center;
+    background-color: #00dd00;
+}
+
+
+img
+{
+    width: 200px;
+    height: auto;
+}
+
+h1
+{
+   color: #00dd00;
+   text-align: center;
+}
+
+.colore
+{
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.item
+{
+margin-top: 30px;
+}
+
+.percentuale
+{
+    border-radius: 4px;
+    margin-top: 10px;
+    height: 30px;
+}
+
+.perc_arancione
+{
+    background-color: orange;
+    width: 500px;
+}
+.perc_verde
+{
+    background-color: #0dd00d;
+    width: 640px;
+}
+.perc_rosso
+{
+    background-color: red;
+    width: 250px;
+}
+
